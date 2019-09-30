@@ -12538,11 +12538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\solom\\OneDrive\\Работен плот\\Programming\\WebStore\\WebStorePractice\\WebStorePractice\\WebStorePractice.csproj",
+      "projectUniqueName": "C:\\Users\\solom\\OneDrive\\Работен плот\\ProgrammingPractice\\WebStore\\WebStorePractice\\WebStorePractice\\WebStorePractice.csproj",
       "projectName": "WebStorePractice",
-      "projectPath": "C:\\Users\\solom\\OneDrive\\Работен плот\\Programming\\WebStore\\WebStorePractice\\WebStorePractice\\WebStorePractice.csproj",
+      "projectPath": "C:\\Users\\solom\\OneDrive\\Работен плот\\ProgrammingPractice\\WebStore\\WebStorePractice\\WebStorePractice\\WebStorePractice.csproj",
       "packagesPath": "C:\\Users\\solom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\solom\\OneDrive\\Работен плот\\Programming\\WebStore\\WebStorePractice\\WebStorePractice\\obj\\",
+      "outputPath": "C:\\Users\\solom\\OneDrive\\Работен плот\\ProgrammingPractice\\WebStore\\WebStorePractice\\WebStorePractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
