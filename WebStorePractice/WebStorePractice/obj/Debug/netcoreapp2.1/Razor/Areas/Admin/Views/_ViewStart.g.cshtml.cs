@@ -23,8 +23,13 @@ using WebStorePractice.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\WebStorePractice\WebStorePractice\Areas\Admin\Views\_ViewImports.cshtml"
+using WebStorePractice.Models.ViewModels;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a4bc9cb4a1d11f0c28a746ed054b4cb82c25e233", @"/Areas/Admin/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1eb9215a39e5d17a968bc985a796d9df7f70b1a7", @"/Areas/Admin/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"031a4aa06f2e9e4137bed393df12ed888ebadd92", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     public class Areas_Admin_Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

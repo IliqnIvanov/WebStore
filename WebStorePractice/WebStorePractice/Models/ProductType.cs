@@ -9,8 +9,8 @@ namespace WebStorePractice.Models
     public class ProductType
     {
         public int Id { get; set; }
-        [Required]
 
+        [Required]
         public string Name { get; set; }
     }
 }

@@ -82,3 +82,8 @@ C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\Web
 C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\WebStorePractice\WebStorePractice\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Edit.g.cshtml.cs
 C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\WebStorePractice\WebStorePractice\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Details.g.cshtml.cs
 C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\WebStorePractice\WebStorePractice\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductTypes\Delete.g.cshtml.cs
+C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\WebStorePractice\WebStorePractice\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Index.g.cshtml.cs
+C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\WebStorePractice\WebStorePractice\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Create.g.cshtml.cs
+C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\WebStorePractice\WebStorePractice\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Edit.g.cshtml.cs
+C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\WebStorePractice\WebStorePractice\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Details.g.cshtml.cs
+C:\Users\solom\OneDrive\Работен плот\ProgrammingPractice\WebStore\WebStorePractice\WebStorePractice\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Products\Delete.g.cshtml.cs
